@@ -23,9 +23,9 @@
 	}
 }
 "publishConfig": { "registry": "https://npm.pkg.github.com/" }
-
 $ npm login --registry=http://npm.pkg.github.com/
+$ npm publish
 
-$ npm publish 
+
 
 
